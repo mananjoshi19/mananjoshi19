@@ -1,16 +1,61 @@
-## Hi there 👋
+Hi 👋 I'm Manan Joshi
 
-<!--
-**mananjoshi19/mananjoshi19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc.IT Student specializing in Data Analytics & AI/ML
 
-Here are some ideas to get you started:
+👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Machine Learning
+- 💻 Python Developer
+- 📊 Data Analytics Enthusiast
+- 🎨 Graphic Designer
+- 📍 Ahmedabad, Gujarat, India
+
+---
+
+🚀 Skills
+
+Programming
+- Python
+- SQL
+- R
+
+Data Analysis
+- Pandas
+- NumPy
+- Matplotlib
+
+Machine Learning
+- SVM
+- KNN
+- Decision Tree
+- Random Forest
+
+Tools
+- GitHub
+- Google Colab
+- VS Code
+
+Design
+- Photoshop
+- Illustrator
+- CorelDRAW
+- InDesign
+
+---
+
+📂 Featured Projects
+
+- Smart Speech Therapy Assistant
+- Graphic Design Portfolio
+
+---
+
+📫 Contact
+
+Email: mananjoshi1904@gmail.com
+
+LinkedIn:
+www.linkedin.com/in/manan-joshi-56a74b312
+
+GitHub:
+https://github.com/mananjoshi19
